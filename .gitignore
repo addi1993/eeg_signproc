@@ -102,3 +102,5 @@ ENV/
 
 #EEG data
 *.edf
+
+.DS_Store
